@@ -1,4 +1,5 @@
-# Project Description
+
+## Project Description
 Analyzing bank loan data using MySQL and Power BI offers a powerful combination of database querying and visualization capabilities. MySQL provides robust data management, while Power BI allows for intuitive creation of insightful reports and dashboards. 
 
 Analyzing bank loan data using MySQL and Power BI is a comprehensive process that involves several steps:
